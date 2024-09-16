@@ -1,0 +1,27 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5170
+    [34mall[39m: [
+      [34;4mApp\Models\Category[39;24m {#6182
+        [34mid[39m: [35m5[39m,
+        [34mnombre[39m: "[32mTech[39m",
+        [34mdescripcion[39m: "[32mTechnology related posts[39m",
+        [34mcreated_at[39m: "[32m2024-09-16 21:30:59[39m",
+        [34mupdated_at[39m: "[32m2024-09-16 21:30:59[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#6184
+          [34mpost_id[39m: [35m5[39m,
+          [34mcategory_id[39m: [35m5[39m,
+        },
+      },
+      [34;4mApp\Models\Category[39;24m {#5209
+        [34mid[39m: [35m5[39m,
+        [34mnombre[39m: "[32mTech[39m",
+        [34mdescripcion[39m: "[32mTechnology related posts[39m",
+        [34mcreated_at[39m: "[32m2024-09-16 21:30:59[39m",
+        [34mupdated_at[39m: "[32m2024-09-16 21:30:59[39m",
+        [34mpivot[39m: [34;4mIlluminate\Database\Eloquent\Relations\Pivot[39;24m {#6161
+          [34mpost_id[39m: [35m5[39m,
+          [34mcategory_id[39m: [35m5[39m,
+        },
+      },
+    ],
+  }
+
